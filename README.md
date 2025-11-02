@@ -1,3 +1,5 @@
+**For comprehensive understanding of this hypothesis, reading the author's related works referenced in the bibliography is recommended.**
+
 # Gravitomagnetism as an Emergent Geometric Phenomenon
 
 A heuristic model within a quantized spacetime framework proposing that gravitomagnetism emerges from the geometric properties of fundamental spacetime quanta (p-gluons).
