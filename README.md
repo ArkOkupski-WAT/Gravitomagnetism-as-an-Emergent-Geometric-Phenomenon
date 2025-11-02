@@ -7,10 +7,6 @@ A heuristic model within a quantized spacetime framework proposing that gravitom
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17508247.svg)](https://doi.org/10.5281/zenodo.17508247)
 [![PDF Download](https://img.shields.io/badge/Download-PDF-blue.svg)](https://github.com/ArkOkupski-WAT/Gravitomagnetism-as-an-Emergent-Geometric-Phenomenon/raw/main/Gravitomagnetism.pdf)
 
-**Direct Links:**
-- **DOI:** https://doi.org/10.5281/zenodo.17508247
-- **PDF:** https://github.com/ArkOkupski-WAT/Gravitomagnetism-as-an-Emergent-Geometric-Phenomenon/blob/main/Gravitomagnetism.pdf
-- **Zenodo Record:** https://zenodo.org/records/17508247
 
 ## 🔬 Abstract
 
